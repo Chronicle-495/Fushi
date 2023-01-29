@@ -49,11 +49,11 @@ cmake_ninja_workdir = D$:\CLionProjects\Fushi\cmake-build-debug\
 
 build cmake_object_order_depends_target_Fushi: phony || CMakeFiles\Fushi.dir
 
-build CMakeFiles\Fushi.dir\2-paixu2.cpp.obj: CXX_COMPILER__Fushi_Debug D$:\CLionProjects\Fushi\2-paixu2.cpp || cmake_object_order_depends_target_Fushi
+build CMakeFiles\Fushi.dir\paixu\paixu2.cpp.obj: CXX_COMPILER__Fushi_Debug D$:\CLionProjects\Fushi\paixu\paixu2.cpp || cmake_object_order_depends_target_Fushi
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   INCLUDES = -ID:\CLionProjects\Fushi\.
   OBJECT_DIR = CMakeFiles\Fushi.dir
-  OBJECT_FILE_DIR = CMakeFiles\Fushi.dir
+  OBJECT_FILE_DIR = CMakeFiles\Fushi.dir\paixu
   TARGET_COMPILE_PDB = CMakeFiles\Fushi.dir\
   TARGET_PDB = Fushi.pdb
 
@@ -65,7 +65,7 @@ build CMakeFiles\Fushi.dir\2-paixu2.cpp.obj: CXX_COMPILER__Fushi_Debug D$:\CLion
 #############################################
 # Link the executable Fushi.exe
 
-build Fushi.exe: CXX_EXECUTABLE_LINKER__Fushi_Debug CMakeFiles\Fushi.dir\2-paixu2.cpp.obj
+build Fushi.exe: CXX_EXECUTABLE_LINKER__Fushi_Debug CMakeFiles\Fushi.dir\paixu\paixu2.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
   LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
