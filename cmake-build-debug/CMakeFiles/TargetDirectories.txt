@@ -1,0 +1,3 @@
+D:/CLionProjects/Fushi/cmake-build-debug/CMakeFiles/Fushi.dir
+D:/CLionProjects/Fushi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Fushi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
