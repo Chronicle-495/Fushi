@@ -1,7 +1,5 @@
 # ninja log v5
-1	465	6966911731266675	CMakeFiles/Fushi.dir/1-meijv.cpp.obj	2c19b796bb5bcd44
-761	1139	6966920646424796	Fushi.exe	fdc14dcf308ba08c
-1	760	6966920643355066	CMakeFiles/Fushi.dir/paixu/paixu.cpp.obj	27fc11404c032f47
-1	220	6966911949822112	CMakeFiles/Fushi.dir/2-paixu2.cpp.obj	14a2fcc0459d3d0f
-1	227	6966920913424055	CMakeFiles/Fushi.dir/paixu/paixu2.cpp.obj	5485de46d0172e7f
 228	572	6966920916217261	Fushi.exe	fd459131907e140f
+1	227	6966920913424055	CMakeFiles/Fushi.dir/paixu/paixu2.cpp.obj	5485de46d0172e7f
+1	292	6972060799076763	CMakeFiles/Fushi.dir/paixu/paixu2.cpp.obj	f661e86428d58513
+294	597	6972060802011507	Fushi.exe	db69660d48ee1754
